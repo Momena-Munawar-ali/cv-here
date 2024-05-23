@@ -1,2 +1,2 @@
 CV with HTML...
-https://cv-here.netlify.app/
+https://momena-munawar-ali.github.io/cv-here/
